@@ -19,5 +19,3 @@ superuser: true
 highlight_name: true
 ---
 I am a social psychology PhD student at Princeton. I am primarily advised by Betsy Levy Paluck.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SydneyGarciaCV_May2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
