@@ -2,7 +2,7 @@
 title: " "
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: ""
+bio: PhD Student
 interests: []
 social: []
 organizations: []
