@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Sydney Belen Garcia"
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: PhD Student
