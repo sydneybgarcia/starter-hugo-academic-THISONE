@@ -19,4 +19,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a social psychology PhD student at Princeton. I am primarily advised by Betsy Levy Paluck.
+I am a first year social psychology PhD student at Princeton. I am primarily advised by Betsy Levy Paluck. I am broadly interested in how institutions can create more inclusive, equitable, and happy spaces through changing social norms.
